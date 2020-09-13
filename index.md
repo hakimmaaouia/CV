@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Baha eddine chammakhi
 
-You can use the [editor on GitHub](https://github.com/hakimmaaouia/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software developer based in Tunis, Tunisia_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:bahaeddinechammakhi@gmail.com) / [Website](https://bahachammakhi.tn/) / [LinkedIn](https://www.linkedin.com/in/baha-chammakhi/) / [GitHub](https://github.com/bahachammakhi/) / [Twitter](https://twitter.com/bahachammakhi/) / [DEV](https://dev.to/bahachammakhi/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Full Stack Developer** @ [Freelance](https://bahachammakhi.tn/projects/) _(Janv 2020 - Present)_ <br>
+- Development of user interfaces, APIs,Servers with the MERN stack (MongoDB / Express / React / Nodejs),Gitlab CI/CD ,Docker,Linux,AWS
+- Adjusted software parameters to boost performance and incorporate new features.
+- Reviewed code, debugged problems and corrected issues.
+- Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
+- Worked closely with clients to establish specifications and system designs.
+- Documented APIs to be used by other developer's in future features.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Summer intern** @ [Best web mobile](http://www.bestwebmobile.com/) _(July 2020 - Sep 2020)_ <br>
+- Build a monitoring system to track orders status in real time.
+- Implementing Unit tests.
+- Integration tests by mocking GraphQL data.
+- Stack used: ReactJS typescript GraphQL ant design.
+    <br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Full-stack Developer Intern** @ [Wereact](https://wereact.co/) _(Sept 2019 - Apr 2020)_ <br>
+- Building Web apps using : React, Typescript, Redux, Redux saga.
+- Maintained high-level expertise in React state management strategies, including Redux.
+- Designed REST calls using React to streamline user interface performance.
+- Integrated new interfaces with backend.
+  <br><br>
 
-- Bulleted
-- List
+**Summer Intern** @ [Wereact](https://wereact.co/) _(August 2017 - Sept 2018)_ <br>
+- Researched new technologies, software packages and hardware products for use in website projects.
+- Collaborated with other developers to identify and alleviate software errors and inefficiencies.
+- Used various technologies, including Reactjs, Typescript,css3,Node.js,express,mongodb
+    <br><br>
+    
 
-1. Numbered
-2. List
+## 👩🏼‍🎓 Education
 
-**Bold** and _Italic_ and `Code` text
+**Bachelor on Network and telecomunications**<br>
+[ISTIC](http://www.istic.rnu.tn/fr) - Ben arous, Tunisia _(Sep 2018 -  Present)_ <br>
 
-[Link](url) and ![Image](src)
-```
+**Cloud Application Developer**<br>
+[IBM](https://www.youracclaim.com/badges/98bb896b-b60d-413b-8a8b-9edf03f8cea4/linked_in_profile)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**AWS Fundamentals: Going Cloud-Native**<br>
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/3BG6EEEDRXZM)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hakimmaaouia/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Scrum Fundamentals** <br>
+[ScrumStudy](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-Bahaeddinechammakhi-754999.pdf)_
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Google Cloud Platform Fundamentals: Core Infrastructure**<br>
+[Coursera](https://www.coursera.org/account/accomplishments/certificate/T98LAYV9MGCL)
